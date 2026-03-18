@@ -45,24 +45,6 @@
 
 ---
 
-## 📂 Projetos em destaque
-
-| 🚀 Projeto | 💡 Descrição | 🔗 Link |
-|-----------|-------------|--------|
-| 📝 Task Manager | Aplicação web para gerenciamento de tarefas | https://github.com/EsdrasdeOliveira/projeto1 |
-| 🤖 Social Bot | Bot de automação para redes sociais | https://github.com/EsdrasdeOliveira/projeto2 |
-| 📊 Data Utils | Biblioteca open source para manipulação de dados | https://github.com/EsdrasdeOliveira/projeto3 |
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsdrasdeOliveira&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasdeOliveira&layout=compact&theme=radical)
-
----
-
 ## ⚡ Mentalidade
 
 > “Aprender nunca esgota a mente.”  
